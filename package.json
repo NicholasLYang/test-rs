@@ -1,0 +1,16 @@
+{
+  "name": "test-rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cargo build",
+    "doc": "cargo doc",
+    "which": "which cargo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rustc": "^0.0.2"
+  }
+}
