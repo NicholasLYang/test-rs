@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rustc": "^0.0.3"
+    "rustc": "^0.0.4"
   }
 }
