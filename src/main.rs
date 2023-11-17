@@ -3,5 +3,5 @@ fn main() {
 }
 
 pub fn bar() {
-    println!("Hello, world!");
+    println!("Hello, world!!");
 }
