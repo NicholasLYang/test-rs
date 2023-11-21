@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "cargo build",
-    "doc": "cargo doc",
+    "doc": "RUSTDOCFLAGS=\"-Z unstable-options --enable-index-page\" cargo doc",
     "which": "which cargo"
   },
   "author": "",
